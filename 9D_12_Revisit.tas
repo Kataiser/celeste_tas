@@ -265,7 +265,7 @@ console load nameguysdsidespack/0/10-Farewell j-00
   14,R,U,X
   39,R
   10,R,X
-  39,L
+  38,L
    4,D,X
   12,L,U,X
   57,R
@@ -277,7 +277,7 @@ console load nameguysdsidespack/0/10-Farewell j-00
   15,R,U,C
    6,R
   37
-   7,R
+   5,R
    9,R,U,X
   36,L
   15,L,U,X
@@ -673,7 +673,7 @@ console load nameguysdsidespack/0/10-Farewell j-00
    1,L,K,G
   23,L,J,G
   23,L,U,X
-  41
+  40
    1,R,J
    4,R,K
   33,R,U,X

@@ -56,7 +56,7 @@ console givekey
   22,R,U,X
    4,R,J
    4,R,K
-   6,K
+   5,K
    4,D,X
    9,L,U,X
    8,L,J
@@ -204,7 +204,7 @@ console givekey
    8,R
    2,J
   12,R,J
-   4,R,K,G
+   3,R,K,G
   18,R,X
   16,D,C
    8,L,D

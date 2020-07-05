@@ -1005,7 +1005,6 @@ console p_twodashes
 #lvl_z-exit
    7,L,D
    3
-   1,L,G
    6,L,J
   19,L,D,X
  227,L,C
@@ -1078,7 +1077,7 @@ console p_twodashes
    1,R,D
    1,R,D
    4,D,X
-  11,R,X
+  10,R,X
    8,L,J
    7,L
    4,D,X

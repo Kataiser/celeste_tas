@@ -706,7 +706,7 @@ console givekey
   15,R,C
    4
    6,R
-  31,R,U,G
+  30,R,U,G
   41,R,D,G
    1,R
   10,L
@@ -926,7 +926,7 @@ console givekey
    1,R,J
   15,R,D,X
   15,R,C
-  12,R,D
+  11,R,D
    1,R,G
   14,R,J
   20,R,X
@@ -971,7 +971,7 @@ console givekey
    1,R,D
    1,R,D
    4,D,X
-  11,R,X
+  10,R,X
    8,L,J
    7,L
    4,D,X

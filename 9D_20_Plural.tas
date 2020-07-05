@@ -63,28 +63,27 @@ console load nameguysdsidespack/0/10-Farewell 188364 -48416
    2,R,K
   14
    1,L,J
-  20,J
+  18,J
    7,R,D,X
-  45,R
+  47,R
   22,R,U,X
-  24,R,D,C
+  22,R,D,C
    4,D,X
-   6,R,X
-   2,R,J
-   4,R,K,G
-   7,R,D,X
+  10,R,X
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_t-04
 #CP-18
-   7,R,D,X
-  11,R,J
-  14,R,U,X
+   8,R,D,X
+  10,R,J
+  15,R,U,X
   42,L
    5,R,C
  135
   17,R,D,X
-  11,R
+  10,R
   24,R,X
   43,L,D
   15,D,X
@@ -501,7 +500,7 @@ console load nameguysdsidespack/0/10-Farewell 188364 -48416
   29,L,D
   15,L,X
   15,L,D
-  26,R
+  24,R
   15,U,X
    5
   18,R,J
