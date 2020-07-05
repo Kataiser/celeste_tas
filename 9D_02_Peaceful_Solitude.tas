@@ -39,7 +39,7 @@ console load nameguysdsidespack/0/10-Farewell 8678 -1184
    1,R,J,G
    5,R
    3,R,J
-   5,R
+   4,R
    8,R,J
   10,L,D,X
    5,R,J
@@ -97,21 +97,21 @@ console load nameguysdsidespack/0/10-Farewell 8678 -1184
    3,R
   15,R,X
    2,R
-  15,L,J
+  14,L,J
   15,U,X
    1
   39,L,U,J,G
   12,R,K,G
-   5,R,G
+   4,R,G
   16,R,K
-  50,L,J
+  49,L,J
  160
    3
    4,D,X
-  10,L,X
+   9,L,X
    1,R,J
    7,R,D
-   8,R
+   7,R
   15,D,X
    7,R,D
   24,L,D
